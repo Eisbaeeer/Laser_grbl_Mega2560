@@ -6,7 +6,7 @@ Angepasste Laser grbl für Arduino IDE zur Ansteuerung eines Arduinoclub Estlcam
 ## Wie schalte ich um
 In Estlcam kann man mit den folgenden zwei Buttons umschalten. Die grbl Firmware muss über die Arduino IDE hochgeladen werden.
 
-![Logo](pics/screen1.jpg)
+![Logo](pics/screen1.png)
 
 
 ## Weblinks
