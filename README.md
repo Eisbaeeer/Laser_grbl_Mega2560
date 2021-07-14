@@ -12,3 +12,4 @@ In Estlcam kann man mit den folgenden zwei Buttons umschalten. Die grbl Firmware
 ## Weblinks
 - Es geht genau um diese Karte: https://www.arduinoclub.de/2020/04/11/estlcam-steuerkarte-mit-arduino-mega-und-handsteuerung/
 - Hier geht es zu Estlcam: http://www.estlcam.de/
+- YouTube Anleitung zur Umschaltung: https://www.youtube.com/watch?v=p0W-TaUoB6c
