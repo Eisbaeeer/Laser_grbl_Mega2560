@@ -17,6 +17,7 @@ Falls die Datei schon vorhanden ist, muss diese überschrieben werden.
 
 ![Logo](pics/screen1.png)
 
+Baudrate 115200
 
 ## Weblinks
 - Es geht genau um diese Karte: https://www.arduinoclub.de/2020/04/11/estlcam-steuerkarte-mit-arduino-mega-und-handsteuerung/
